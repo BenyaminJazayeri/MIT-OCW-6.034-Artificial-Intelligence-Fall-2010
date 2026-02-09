@@ -27,7 +27,7 @@ Course Link: https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010
 | Representations | Classes, trajectories, transitions |
 | Probabilistic Inference | Bayesian inference, model merging, cross-modal coupling |
 
-## Coursework
+## Coursework Done
 
 | Type | Count |
 |------|-------|
