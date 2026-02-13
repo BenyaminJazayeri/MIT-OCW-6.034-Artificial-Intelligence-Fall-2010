@@ -33,6 +33,29 @@ Course Homepage: https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-
 |------|-------|
 | Labs | 6 |
 
+## Projects
+
+### [Search Algorithm Suite: BFS, DFS, Hill Climbing, Beam, Branch & Bound, A*](./Lab%202)
+A complete implementation of the major graph search algorithms, covering the full uninformed-to-informed search taxonomy. Also includes functions to verify heuristic admissibility and consistency.
+
+### [Neural Network Backpropagation from Scratch](./Lab%205)
+Forward propagation with sigmoid activation and backpropagation implementing the chain rule through multi-layer networks. Built progressively deeper architectures, from a single neuron to a 6-neuron, 3-layer network.
+
+### [AdaBoost Ensemble Classifier](./Lab%205)
+An AdaBoost implementation with weighted voting, weight updates based on classification error, and best-classifier selection. Applied to congressional voting data.
+
+### [Constraint Satisfaction with Forward Checking and Propagation](./Lab%204)
+CSP solver enhancements with forward checking and BFS-style singleton domain propagation that prunes variable domains after each assignment.
+
+### [k-Nearest Neighbors and Information Entropy](./Lab%204)
+k-NN classification using Hamming and Euclidean distance, and a Shannon information entropy function for decision tree split quality. Applied to congressional voting records.
+
+### [Minimax with Alpha-Beta Pruning for Connect Four](./Lab%203)
+An adversarial game search engine using negamax-style alpha-beta pruning that prunes the game tree by maintaining alpha/beta bounds.
+
+### [Backward Chaining Engine for Rule-Based Systems](./Lab%201)
+A backward chaining engine that recursively builds AND/OR goal trees from production rules with pattern-variable unification. Applied to family relationship inference and poker-hand transitivity.
+
 ## My Other MIT Coursework
 
 [18.01SC Single Variable Calculus](https://github.com/BenyaminJazayeri/MIT-OCW-18.01SC-Single-Variable-Calculus-Fall-2010)<br>
